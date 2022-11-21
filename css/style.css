@@ -742,7 +742,7 @@ ul.dropdown-menu li {
 -----------------------------*/
 #banner {
   position: relative;
-  background: url("/images/bg/banner_bg.jpg") no-repeat;
+  background: url("/images/irepair/2.jpeg") no-repeat;
   background-size: cover;
 }
 
@@ -885,7 +885,7 @@ h5.subtitle {
 -----------------------*/
 #services-2 {
   position: relative;
-  background: url("../images/bg/6.jpeg") no-repeat fixed 50% 50%;
+  background: url("../images/irepair/1.jpeg") no-repeat fixed 50% 50%;
   background-size: cover;
 }
 #services-2:before {
